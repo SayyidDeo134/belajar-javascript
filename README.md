@@ -55,3 +55,7 @@ VIDEO 17: Query Selectors All
 
 VIDEO 18: Project Kalkulator
     Berhasil membuat aplikasi sederhana counter up down
+
+VIDEO 19: Array methods
+    Mengerti cara kerja array methods pada javascript
+
