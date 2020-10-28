@@ -29,3 +29,6 @@ VIDEO 8 : Pengulangan loop
 VIDEO 9 : Function
     Mengerti dan memahami cara pemanggilan dan penggunaan function dalam javascript
 
+VIDEO 10: Arrow Function
+    Mengerti dan memahami cara penggunaan arrow function
+
