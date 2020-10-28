@@ -7,5 +7,5 @@ let kelilingPersegi = (sisi) => {
     console.log(sisi);
 }
 
-kelilingPersegi();
+kelilingPersegi(5);
 belajar();

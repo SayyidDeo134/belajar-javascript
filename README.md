@@ -32,3 +32,6 @@ VIDEO 9 : Function
 VIDEO 10: Arrow Function
     Mengerti dan memahami cara penggunaan arrow function
 
+VIDEO 11: Array
+    Mengerti dan memahami array pada javascript
+
