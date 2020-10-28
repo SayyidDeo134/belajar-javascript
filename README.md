@@ -22,3 +22,6 @@ VIDEO 6 : Percabangan IF
 
 VIDEO 7 : Selector Switch Case
     Mengerti dan memahami pencarian nilai menggunakan switch
+
+VIDEO 8 : Pengulangan loop
+    Mengerti dan memahami cara pengulangan dalam javascript
