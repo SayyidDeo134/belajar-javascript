@@ -46,3 +46,6 @@ VIDEO 14: DOM Event
 
 VIDEO 15: DOM EventListener
     Mengerti dan memahami eventlistener pada DOM
+
+VIDEO 16: Project Counter UP DOWN
+    Berhasil membuat aplikasi sederhana counter up down
