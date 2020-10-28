@@ -49,3 +49,6 @@ VIDEO 15: DOM EventListener
 
 VIDEO 16: Project Counter UP DOWN
     Berhasil membuat aplikasi sederhana counter up down
+
+VIDEO 17: Query Selectors All
+    Mengerti dan memahami cara bekerja dengan querySelectorsAll

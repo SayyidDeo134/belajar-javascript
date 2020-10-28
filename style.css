@@ -1,0 +1,13 @@
+.container{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding: 50px;
+}
+.panel{
+    margin: 15px 10px;
+}
+.btn-angka{
+    margin: 15px 10px;
+}
