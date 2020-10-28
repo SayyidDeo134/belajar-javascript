@@ -18,4 +18,7 @@ VIDEO 5 : Operator Logika
     Mengerti dan mengenal operator logika dan pembanding pada javascript
 
 VIDEO 6 : Percabangan IF
-    
+    Mengerti dan mengenal percabangan pada javascript
+
+VIDEO 7 : Selector Switch Case
+    Mengerti dan memahami pencarian nilai menggunakan switch
