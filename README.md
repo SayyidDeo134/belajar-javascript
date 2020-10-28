@@ -41,3 +41,6 @@ VIDEO 12: Object
 VIDEO 13: Document Object Model
     Mengerti dan memahami cara bekerja denga DOM pada javascript
 
+VIDEO 14: DOM Event
+    Menegerti dan memahami event pada DOM
+
