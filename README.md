@@ -62,3 +62,6 @@ VIDEO 19: Array methods
 VIDEO 20: Array methods bagian 2
     Mengerti cara kerja array methods pada javascript
 
+VIDEO 21: Array methods bagian 3
+    Mengerti cara kerja array methods pada javascript
+

@@ -32,9 +32,25 @@ let mapel = ["IPA", "Bahasa", "Matematika"];
 // nama.forEach((isiNama) => {
 //     console.log(isiNama);
 // })
+
 // Pencarian pada data array
 // nilai.filter((a) => {
 //     if (a.ipa > 80) {
 //         console.log(a);
 //     }
 // })
+
+// Mengambil sebagian data pada array dan data tersebut dalam bentuk array
+// let siswa = nilai.map((a) => {
+//     return a.nama;
+// })
+
+// mengurutkan data pada array
+// nama.sort();
+
+// let hasil = nilai.reduce((a, b) => {
+//     return (a = a + b.ipa);
+// }, 0)
+// nilai.reduce((penyimpanan, item) => {
+//     // action
+// }, index);
