@@ -15,4 +15,7 @@ VIDEO 4 : Operator Logika
     Mengerti dan mengenal operator matematika pada javascript
 
 VIDEO 5 : Operator Logika
+    Mengerti dan mengenal operator logika dan pembanding pada javascript
+
+VIDEO 6 : Percabangan IF
     
