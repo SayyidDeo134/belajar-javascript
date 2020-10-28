@@ -52,3 +52,6 @@ VIDEO 16: Project Counter UP DOWN
 
 VIDEO 17: Query Selectors All
     Mengerti dan memahami cara bekerja dengan querySelectorsAll
+
+VIDEO 18: Project Kalkulator
+    Berhasil membuat aplikasi sederhana counter up down
