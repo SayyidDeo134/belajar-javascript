@@ -25,3 +25,7 @@ VIDEO 7 : Selector Switch Case
 
 VIDEO 8 : Pengulangan loop
     Mengerti dan memahami cara pengulangan dalam javascript
+
+VIDEO 9 : Function
+    Mengerti dan memahami cara pemanggilan dan penggunaan function dalam javascript
+
