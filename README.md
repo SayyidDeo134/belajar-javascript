@@ -59,3 +59,6 @@ VIDEO 18: Project Kalkulator
 VIDEO 19: Array methods
     Mengerti cara kerja array methods pada javascript
 
+VIDEO 20: Array methods bagian 2
+    Mengerti cara kerja array methods pada javascript
+

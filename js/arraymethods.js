@@ -23,3 +23,18 @@ nama.push("Sandi");
 
 // mengambil data dengan limit tertentu dan tidak menghapus tempat asal / data array original
 // nama.slice(...index_ke, ...banyak_tampil)
+
+let mapel = ["IPA", "Bahasa", "Matematika"];
+// Menggabungkan 2 data array yang berbeda
+// nama.concat(mapel);
+
+// foreach pada javascript
+// nama.forEach((isiNama) => {
+//     console.log(isiNama);
+// })
+// Pencarian pada data array
+// nilai.filter((a) => {
+//     if (a.ipa > 80) {
+//         console.log(a);
+//     }
+// })
