@@ -38,3 +38,6 @@ VIDEO 11: Array
 VIDEO 12: Object
     Mengerti dan memahami object pada javascript
 
+VIDEO 13: Document Object Model
+    Mengerti dan memahami cara bekerja denga DOM pada javascript
+
