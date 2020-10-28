@@ -35,3 +35,6 @@ VIDEO 10: Arrow Function
 VIDEO 11: Array
     Mengerti dan memahami array pada javascript
 
+VIDEO 12: Object
+    Mengerti dan memahami object pada javascript
+
